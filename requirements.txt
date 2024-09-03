@@ -11,4 +11,7 @@
 Flask
 joblib
 gunicorn
+pandas
+scikit-learn
+numpy
 # Add other libraries as needed
