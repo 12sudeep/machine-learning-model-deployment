@@ -10,4 +10,5 @@
 
 Flask
 joblib
+gunicorn
 # Add other libraries as needed
